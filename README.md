@@ -62,3 +62,6 @@ robot_arm_project/
 ---
 
 ## 🛠️ Developed for: Educational and Robotics control projects.
+
+
+![Image](https://github.com/user-attachments/assets/cfc07fb4-754d-4aab-8b72-fab86134eb2f)
